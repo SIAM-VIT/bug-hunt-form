@@ -7,9 +7,9 @@
     <a href="https://github.com/orgs/SIAM-VIT/repositories?q=hunt"><strong>Explore other Bug Hunt 2.0 repositories</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SIAM-VIT/coding-relay-form/issues">Report Bug</a>
+    <a href="https://github.com/SIAM-VIT/bug-hunt-form/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SIAM-VIT/coding-relay-form/issues">Request Feature</a>
+    <a href="https://github.com/SIAM-VIT/bug-hunt-form/issues">Request Feature</a>
   </p>
 </div>
 
@@ -28,7 +28,7 @@
 
 ## About The Project
 
-This is the official website template for embedding registration and feedback forms for the 2025 Bug Hunt 2.0, SIAM-VIT's Flagship Event in VIT's fest, Yantra'25. The wesbite is used by the organizers to collect responses via Google Form embedded within the website to create teams and check participant count before the event. The portal is built using NextJS.
+This is the official website template for embedding registration and feedback forms for the 2025 Bug Hunt 2.0. The wesbite is used by the organizers to collect responses via Google Form embedded within the website to collect suggestions for debugging questions before the event. The portal is built using NextJS.
 
 Key Features:
 

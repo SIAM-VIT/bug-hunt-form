@@ -92,7 +92,8 @@ export default function Home() {
         </div>
         <div className="min-w-screen min-h-screen mt-2 flex flex-col items-center justify-center">
           <h3 className="sm:text-3xl mb-3 text-xl">
-            Kindly submit your questions in this form{" "}
+            Kindly submit your question <br className="sm:hidden visible" /> in
+            this form{" "}
           </h3>
           <div className="z-50 sm:w-[710px] w-[335px] sm:h-[960px] h-[1300px] bg-white mb-7 rounded-xl">
             <iframe
