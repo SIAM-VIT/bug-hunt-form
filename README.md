@@ -1,7 +1,7 @@
 <p align="center"><img src="https://imgur.com/Vp4LWt0.png" width=160 title="SIAM-VIT" alt="SIAM-VIT"></a>
 </p>
 <div align="center">
-  <h3 align="center">2025 Bug Hunt 2.0 Question Form Website</h3>
+  <h3 align="center">2025 Bug Hunt 2.0 Question Form Submission Website</h3>
 
   <p align="center">
     <a href="https://github.com/orgs/SIAM-VIT/repositories?q=hunt"><strong>Explore other Bug Hunt 2.0 repositories</strong></a>
